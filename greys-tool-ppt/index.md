@@ -64,7 +64,7 @@ url:https://github.com/oldmanpushcart/greys-anatomy
 
 [slide]
 
-##温馨小提示
+##坑
 ###illegal ENV, please set $JAVA_HOME to JDK6+
 
 ```
